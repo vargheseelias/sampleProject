@@ -1,0 +1,16 @@
+C:\projectarea\sampleProject\obj\Debug\net5.0\sampleProject.csproj.AssemblyReference.cache
+C:\projectarea\sampleProject\obj\Debug\net5.0\sampleProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\projectarea\sampleProject\obj\Debug\net5.0\sampleProject.AssemblyInfoInputs.cache
+C:\projectarea\sampleProject\obj\Debug\net5.0\sampleProject.AssemblyInfo.cs
+C:\projectarea\sampleProject\obj\Debug\net5.0\sampleProject.csproj.CoreCompileInputs.cache
+C:\projectarea\sampleProject\bin\Debug\net5.0\sampleProject.exe
+C:\projectarea\sampleProject\bin\Debug\net5.0\sampleProject.deps.json
+C:\projectarea\sampleProject\bin\Debug\net5.0\sampleProject.runtimeconfig.json
+C:\projectarea\sampleProject\bin\Debug\net5.0\sampleProject.runtimeconfig.dev.json
+C:\projectarea\sampleProject\bin\Debug\net5.0\sampleProject.dll
+C:\projectarea\sampleProject\bin\Debug\net5.0\ref\sampleProject.dll
+C:\projectarea\sampleProject\bin\Debug\net5.0\sampleProject.pdb
+C:\projectarea\sampleProject\obj\Debug\net5.0\sampleProject.dll
+C:\projectarea\sampleProject\obj\Debug\net5.0\ref\sampleProject.dll
+C:\projectarea\sampleProject\obj\Debug\net5.0\sampleProject.pdb
+C:\projectarea\sampleProject\obj\Debug\net5.0\sampleProject.genruntimeconfig.cache
